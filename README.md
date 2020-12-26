@@ -1,2 +1,2 @@
 # backdoor
-just a backdoor.exe
+just a backdoor
